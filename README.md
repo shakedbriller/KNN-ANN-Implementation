@@ -1,0 +1,2 @@
+# KNN-ANN-Implementation
+In this exercise, we implementated form scratch K-Nearest Neighbors(KNN) and Appriximatly Nearest Neighbors(ANN) algorithms. We matched feature points on images using ANN method: Locality Sensitive Hashing (LSH). We compared our ANN results with our KNN results demonstrate which of the hyperparamters of the ANN method gives the best results (quality and performance). We also compared the Sklearn NearestNeighbors algorithm results using the KD Tree modelour ANN results with our KNN results .
